@@ -1,70 +1,86 @@
-# Getting Started with Create React App
+# wdev-site
+<p align="center">
+   <img src="https://github.com/ApertureLaboratory/website-schedulefy/blob/main/public/schedule-github.png?raw=true" alt="Liftoff" width="300"/>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project setup
 
-## Available Scripts
+<p align="center">
+   <a href="https://aperturelabs.netlify.com">
+      <img alt="AndersonMarlon" src="https://img.shields.io/badge/-Aperture Laboratories-5965e0?style=flat&logoColor=white" />
+   </a>
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ApertureLaboratory/website-schedulefy?color=5863d2">
 
-In the project directory, you can run:
+### Compiles and hot-reloads for development
+  <a href="https://github.com/ApertureLaboratory/website-schedulefy/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ApertureLaboratory/website-schedulefy?color=5863d2">
+  </a>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-5965e0">
+  <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/ApertureLaboratory/website-schedulefy?color=5863d2" />
+  <a href="https://github.com/ApertureLaboratory/website-schedulefy/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/ApertureLaboratory/website-schedulefy?color=5863d2&logo=github">
+  </a>
+</p>
 
-### `yarn start`
+### Compiles and minifies for production
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<div align="center">
+  <sub>Schedulefy. Built with ❤︎ by
+    <a href="https://github.com/ApertureLaboratory">Aperture Laboratories</a> and
+    <a href="https://github.com/ApertureLaboratory/website-schedulefy/graphs/contributors">
+      contributors
+    </a>
+  </sub>
+</div>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Lints and fixes files
 
-### `yarn test`
+# :pushpin: Table of Contents
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* [Demo Website](#eyes-demo-website)
+* [Technologies](#computer-technologies)
+* [Features](#rocket-features)
+* [Found a bug? Missing a specific feature?](#bug-issues)
+* [Contributing](#tada-contributing)
+* [License](#closed_book-license)
 
-### `yarn build`
+# :eyes: Demo Website
+👉  Demo: undefined
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# :computer: Technologies
+This project was made using the follow technologies:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* Vue
+* Javascript
+* Typescript
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# :rocket: Features
 
-### `yarn eject`
+* To Do List
+* Schedule
+* Notification Push
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# :construction_worker: How to run
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+# :bug: Issues
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Feel free to **file a new issue** with a respective title and description on the the [Web Essentials](https://github.com/ApertureLaboratory/website-schedulefy/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# :tada: Contributing
+First of all, thank you for being interested in helping out, your time is always appreciated in every way. :100:
 
-## Learn More
+Here's some tips:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* Check the [issues page](https://github.com/ApertureLaboratory/website-schedulefy/issues) for already opened issues (or maybe even closed ones) that might already address your question/bug/feature request.
+* Feature requests are welcomed! Provide some details on why it would be helpful for you and others, explain how you're using bull-board and if possible even some screenshots if you are willing to mock something!
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Check out the [contributing](./CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
 
-### Code Splitting
+# :closed_book: License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Released in 2018
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Made by [Aperture Laboratories](https://github.com/ApertureLaboratory).
+This project is under the [MIT license](./LICENSE).
