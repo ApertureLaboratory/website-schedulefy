@@ -10,8 +10,6 @@
       <img alt="AndersonMarlon" src="https://img.shields.io/badge/-Aperture Laboratories-5965e0?style=flat&logoColor=white" />
    </a>
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/ApertureLaboratory/website-schedulefy?color=5863d2">
-
-### Compiles and hot-reloads for development
   <a href="https://github.com/ApertureLaboratory/website-schedulefy/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ApertureLaboratory/website-schedulefy?color=5863d2">
   </a>
