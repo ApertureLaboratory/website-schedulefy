@@ -1,6 +1,6 @@
 # wdev-site
 <p align="center">
-   <img src="https://github.com/ApertureLaboratory/website-schedulefy/blob/main/public/schedule-github.png?raw=true" alt="Liftoff" width="300"/>
+   <img src="https://github.com/ApertureLaboratory/website-schedulefy/blob/main/public/undraw_date_picker_gorr.svg" alt="Liftoff" width="300"/>
 </p>
 
 ## Project setup
