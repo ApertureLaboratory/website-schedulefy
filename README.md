@@ -3,8 +3,6 @@
    <img src="https://github.com/ApertureLaboratory/website-schedulefy/blob/main/public/undraw_date_picker_gorr.svg" alt="Liftoff" width="300"/>
 </p>
 
-## Project setup
-
 <p align="center">
    <a href="https://aperturelabs.netlify.com">
       <img alt="AndersonMarlon" src="https://img.shields.io/badge/-Aperture Laboratories-5965e0?style=flat&logoColor=white" />
@@ -19,8 +17,6 @@
     <img alt="Stargazers" src="https://img.shields.io/github/stars/ApertureLaboratory/website-schedulefy?color=5863d2&logo=github">
   </a>
 </p>
-
-### Compiles and minifies for production
 
 <div align="center">
   <sub>Schedulefy. Built with ❤︎ by
