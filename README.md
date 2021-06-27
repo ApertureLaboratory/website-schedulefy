@@ -1,4 +1,3 @@
-# wdev-site
 <p align="center">
    <img src="https://github.com/ApertureLaboratory/website-schedulefy/blob/main/public/undraw_date_picker_gorr.svg" alt="Liftoff" width="300"/>
 </p>
