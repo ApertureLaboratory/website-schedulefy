@@ -1,0 +1,43 @@
+#user_page {
+  max-width: 100vw;
+  max-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#user_page span {
+  margin-top: 2rem;
+  font-size: 2ch;
+  color: #fff;
+}
+.header {
+  display: flex;
+  height: 4rem;
+  width: 100%;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 1rem;
+  padding: 0 2rem;
+}
+.user_content {
+  display: flex;
+  width: 80vw;
+  height: 75vh;
+  gap: 7px;
+}
+
+.schedule_and_history {
+  display: flex;
+  width: 80%;
+  height: 2.5rem;
+  gap: 4px;
+}
+.schedule_and_history button {
+  background-color: #fff;
+  width: 10rem;
+  border: none;
+  font-size: 2ch;
+  cursor: pointer;
+  border-top: 3px solid rgb(9, 240, 105);
+}

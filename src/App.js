@@ -1,11 +1,6 @@
-import React, { useState } from 'react';
-import DefaultLayout from './components/DefaultLayout';
+import React from 'react';
+import { UserPage } from './pages/UserPage';
 
-
-export default function App(){
-    return(
-        <DefaultLayout style={{marginTop: '50px'}}>
-            Teste
-        </DefaultLayout>
-    )
+export default function App() {
+  return <UserPage />;
 }
